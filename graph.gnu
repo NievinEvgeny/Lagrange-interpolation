@@ -5,6 +5,8 @@ set xrange [0:6]
 
 set yrange [0:3]
 
+set grid
+
 set ylabel "y"
 
 set xlabel "x"
